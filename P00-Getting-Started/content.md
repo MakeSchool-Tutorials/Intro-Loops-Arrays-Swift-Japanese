@@ -8,7 +8,7 @@ slug: loops-arrays-playground
 
 > [action]
 >
-1. [ここ]()からファイルをダウンロードします。
+1. [ここ](https://github.com/MakeSchool-Tutorials/Intro-Arrays-Loops-Swift-Playground/archive/swift4-japanese.zip)からファイルをダウンロードします。
 1. ダウンロードしたzipファイルを解凍します。
 1. `Arrays-Loops.playground`ファイルが見つかるはずです。これを"Make School Projects"フォルダに入れましょう。
 1. `Arrays-Loops.playground`をダブルクリックして開きましょう！
